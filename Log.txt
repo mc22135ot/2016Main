@@ -1,0 +1,6 @@
+2016:8:22:17:5:27
+Path :/home/pi/2016Main
+Success setup MotorSerial.
+Success connect to controller.
+Standby MotorDriverDriver Communication.
+Successful completion
