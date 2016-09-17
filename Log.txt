@@ -1,6 +1,0 @@
-2016:9:6:9:41:24
-Path :/home/pi/Izanami
-Success setup MotorSerial.
-Success connect to controller.
-Standby MotorDriverDriver Communication.
-Successful completion
